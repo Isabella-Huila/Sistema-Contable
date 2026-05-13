@@ -1,1 +1,1 @@
-web: gunicorn SistemaContableApp.wsgi
+web: gunicorn SistemaContable.wsgi:application
